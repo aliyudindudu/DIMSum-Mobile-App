@@ -18,7 +18,7 @@ It combines a modern web app with a mobile experience (packaged using [Capacitor
 - Frontend: [Bootstrap]  
 - Mobile Wrapper: [Capacitor]  
 - Backend API: [Node.js]  
-- Maps: [Leaflet / Mapbox / OpenLayers]  
+- Maps: [OpenLayers]  
 
 ---
 
