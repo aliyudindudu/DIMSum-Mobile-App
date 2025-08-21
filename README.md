@@ -26,4 +26,4 @@ It combines a modern web app with a mobile experience (packaged using [Capacitor
 1. Clone this repository:
    ```bash
    git clone https://github.com/aliyudindudu/DIMSum-Mobile-App.git
-   cd dimsum
+   cd DIMSum-Mobile-App
