@@ -9,7 +9,7 @@ It combines a modern web app with a mobile experience (packaged using [Capacitor
 - 📊 Interactive infographics and visualizations  
 - 📑 Statistical tables and key indicators  
 - 🗺️ Thematic maps with regional insights  
-- 📱 Works on both **web and mobile (Android/iOS)**  
+- 📱 Works on both **web and mobile (Android)**  
 - 🔍 User-friendly data exploration  
 
 ---
