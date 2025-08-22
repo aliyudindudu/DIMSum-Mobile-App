@@ -57,16 +57,16 @@ npx cap open android  # For Android Studio
 npx cap open ios      # For Xcode
 ```
 
-🤝 Contribution
+## 🤝 Contribution
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
+## 📄 License
 
-Copyright (c) 2025 Aliyudin Saptari
+-Copyright (c) 2025 Aliyudin Saptari
+-All rights reserved.
+-You must obtain explicit permission from the author before cloning, copying, or redistributing this repository. 
+-Unauthorized use is prohibited.
 
-All rights reserved.
-
-You must obtain explicit permission from the author before cloning, copying, or redistributing this repository. 
-Unauthorized use is prohibited.
+---
 
