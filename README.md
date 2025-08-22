@@ -15,60 +15,43 @@ It combines a modern web app with a mobile experience (packaged using [Capacitor
 ---
 
 ## 🛠️ Technology Stack
-- Frontend: [Bootstrap]  
-- Mobile Wrapper: [Capacitor]  
-- Backend API: [Node.js]  
-- Maps: [OpenLayers]  
+- Frontend: [Bootstrap](https://getbootstrap.com/)  
+- Mobile Wrapper: [Capacitor](https://capacitorjs.com/)  
+- Backend API: [Node.js](https://nodejs.org/)  
+- Maps: [OpenLayers](https://openlayers.org/)  
 
 ---
 
 ## 🚀 Installation (Development)
-### Prerequisites  
+
+### Prerequisites
 Make sure you have installed:  
 - [Node.js](https://nodejs.org/) (LTS version recommended)  
 - [npm](https://www.npmjs.com/) (comes with Node.js)  
 - [Capacitor CLI](https://capacitorjs.com/)  
 
-### 1. Clone the Repository  
+### Installation Steps
 ```bash
+# 1. Clone the Repository
 git clone https://github.com/username/DIMSum-Mobile-App.git
 cd DIMSum-Mobile-App
-2. Install Dependencies
-```bash
-Copy
-Edit
+
+# 2. Install Dependencies
 npm install
-3. Run as Web App (Development)
-bash
-Copy
-Edit
+
+# 3. Run as Web App (Development)
 npm run start
-The app will run on your local browser (default: http://localhost:3000/ or depending on your configuration).
+# The app will run on your local browser (default: http://localhost:3000/)
 
-📱 Build as Mobile App
-1. Add Platform
-For Android:
-
-bash
-Copy
-Edit
+# 4. Build as Mobile App
+# Add Platform
 npx cap add android
-For iOS:
-
-bash
-Copy
-Edit
 npx cap add ios
-2. Build Project
-bash
-Copy
-Edit
+
+# Build Project
 npm run build
 npx cap copy
-3. Open in IDE
-Android → open in Android Studio:
 
-bash
-Copy
-Edit
-npx cap open android
+# Open in IDE
+npx cap open android  # For Android Studio
+npx cap open ios      # For Xcode
