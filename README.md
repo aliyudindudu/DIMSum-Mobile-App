@@ -55,3 +55,18 @@ npx cap copy
 # Open in IDE
 npx cap open android  # For Android Studio
 npx cap open ios      # For Xcode
+```
+
+🤝 Contribution
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+
+Copyright (c) 2025 Aliyudin Saptari
+
+All rights reserved.
+
+You must obtain explicit permission from the author before cloning, copying, or redistributing this repository. 
+Unauthorized use is prohibited.
+
