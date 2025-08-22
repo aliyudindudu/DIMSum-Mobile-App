@@ -65,9 +65,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 -Copyright (c) 2025 Aliyudin Saptari
 
--All rights reserved.
--You must obtain explicit permission from the author before cloning, copying, or redistributing this repository. 
--Unauthorized use is prohibited.
+All rights reserved.
+
+You must obtain explicit permission from the author before cloning, copying, or redistributing this repository. 
+Unauthorized use is prohibited.
 
 ---
 
