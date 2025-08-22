@@ -63,7 +63,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
--Copyright (c) 2025 Aliyudin Saptari
+Copyright (c) 2025 Aliyudin Saptari
 
 All rights reserved.
 
