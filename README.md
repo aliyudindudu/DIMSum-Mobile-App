@@ -23,7 +23,52 @@ It combines a modern web app with a mobile experience (packaged using [Capacitor
 ---
 
 ## 🚀 Installation (Development)
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aliyudindudu/DIMSum-Mobile-App.git
-   cd DIMSum-Mobile-App
+### Prerequisites  
+Make sure you have installed:  
+- [Node.js](https://nodejs.org/) (LTS version recommended)  
+- [npm](https://www.npmjs.com/) (comes with Node.js)  
+- [Capacitor CLI](https://capacitorjs.com/)  
+
+### 1. Clone the Repository  
+``bash
+git clone https://github.com/username/DIMSum-Mobile-App.git
+cd DIMSum-Mobile-App
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Run as Web App (Development)
+bash
+Copy
+Edit
+npm run start
+The app will run on your local browser (default: http://localhost:3000/ or depending on your configuration).
+
+📱 Build as Mobile App
+1. Add Platform
+For Android:
+
+bash
+Copy
+Edit
+npx cap add android
+For iOS:
+
+bash
+Copy
+Edit
+npx cap add ios
+2. Build Project
+bash
+Copy
+Edit
+npm run build
+npx cap copy
+3. Open in IDE
+Android → open in Android Studio:
+
+bash
+Copy
+Edit
+npx cap open android
