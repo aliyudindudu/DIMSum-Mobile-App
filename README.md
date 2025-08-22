@@ -30,11 +30,11 @@ Make sure you have installed:
 - [Capacitor CLI](https://capacitorjs.com/)  
 
 ### 1. Clone the Repository  
-``bash
+```bash
 git clone https://github.com/username/DIMSum-Mobile-App.git
 cd DIMSum-Mobile-App
 2. Install Dependencies
-bash
+```bash
 Copy
 Edit
 npm install
